@@ -9,7 +9,7 @@ public class DBCredentials {
 	public final String serverName = "localhost";
 	public final int portNumber = 3306;
 
-	/** Database Details */
+	/** Database Details for logging */
 	public final String dbName = "banking";
 	
 }
